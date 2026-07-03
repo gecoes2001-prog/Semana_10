@@ -1,0 +1,4 @@
+1. Un backlog es una lista priorizada de tareas o funcionalidades por desarrollar.
+2. Describe una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+3. Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+4. Como canal de coordinación, convocatoria y notificación comunitaria.

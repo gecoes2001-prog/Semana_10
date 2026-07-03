@@ -1,0 +1,11 @@
+Las dos tareas que haría primero son:
+1. Registrar una incidencia.
+2. Recibir una alerta en Telegram.
+
+¿Por qué son las más importantes?
+Porque permiten iniciar el flujo de reporte y activar una respuesta rápida.
+
+¿Qué significa para mí que una tarea esté terminada?
+- La funcionalidad permite registrar o recibir la información esperada.
+- Se probó con un caso de ejemplo.
+- Quedó registrada en Git y documentada de forma simple.
